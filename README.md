@@ -40,4 +40,4 @@ The Clinic Consultation System is a desktop-based application developed as a Vis
 ## 🎥 Application Demo
 
 To see how this system operates visually, please watch the following demo video:
-[Application Demo Video](https://youtu.be/YHKuu8vqQUw)
+[Application Demo Video](https://youtu.be/YHkUu8vqQUw?si=VJ9lbeXXVjNZFxF_)
