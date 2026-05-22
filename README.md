@@ -29,9 +29,9 @@ The Clinic Consultation System is a desktop-based application developed as a Vis
    - Import the project's `.sql` database file available in this repository's folder.
 
 3. **Running the Application in Visual Studio:**
-   - Clone this repository to your local computer directory:
+  - Clone this repository to your local computer directory:
      ```bash
-     git clone [https://github.com/your-username/clinic-consultation-app.git](https://github.com/your-username/clinic-consultation-app.git)
+     git clone https://github.com/Aiurskiesyx/Medical-Consultation-Project-Visual-Programming.git
      ```
    - Open Visual Studio, select **Open a project or solution**, and navigate to the *Solution* (`.sln`) file of this project.
    - If necessary, adjust the *Connection String* in the source code (for example, in the `App.config` file or the database connection file) to match your local database configuration.
